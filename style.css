@@ -4,7 +4,7 @@
 }
 #container-nav{
     display:inline-block;
-    width: 80%;
+    width: 100%;
     margin-left: 10%;
     margin-right: 10%;
     margin-top:1%;
@@ -46,7 +46,7 @@
 .header-container{
     padding-top:50px;
     background: url(img/dillion.jpg);
-    height: 100%;
+    width: 100vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
